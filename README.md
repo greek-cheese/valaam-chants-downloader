@@ -50,8 +50,8 @@ Valaam Chants Downloader is a Python script designed to scrape, download, and or
 
 ### Example
 
-    ```bash
-    $ python valaam_downloader.py
+```bash
+    $ python valaam.py
     1. Chant of the Valaam Monastery
     2. Vigil Service
     Please enter your selection number (or 'q' to quit): 1
@@ -62,7 +62,7 @@ Valaam Chants Downloader is a Python script designed to scrape, download, and or
 
     Do you want to download the entire playlist? (y/n): y
     Downloading songs: 100%|██████████| 10/10 [00:45<00:00, 4.59s/song]
-    ```
+```
 
 ## Metadata Handling
 
