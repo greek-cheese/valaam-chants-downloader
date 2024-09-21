@@ -38,7 +38,7 @@ Valaam Chants Downloader is a Python script designed to scrape, download, and or
 1. Run the script
 
     ```bash
-    python valaam_downloader.py
+    python valaam.py
     ```
 
 1. Folllow the prompts:
